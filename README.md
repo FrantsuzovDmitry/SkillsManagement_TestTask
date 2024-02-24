@@ -1,3 +1,4 @@
+# Тестовое задание на позицию стажера Backend-разработчика в Neo Stack Technology
 0. git clone
 1. Открыть папку в командной строке
 2. dotnet ef migrations add InitialCreate
